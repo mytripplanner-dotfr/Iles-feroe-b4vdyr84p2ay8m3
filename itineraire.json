@@ -1,0 +1,161 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Fjords, Villages et Sérénité",
+  "budget_total": "Environ 1200-1500 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "5h40 (avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Immersion Douce à Tórshavn",
+      "legende": "Après un vol pittoresque, prenez vos marques dans la capitale la plus petite du monde. Une balade relaxante le long du port et dans les ruelles colorées de Tórshavn vous attend pour une première immersion en douceur.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Vágar (FAE) et récupération de votre voiture de location. Indispensable pour explorer les îles à votre rythme.",
+        "<strong>🚗</strong>: Trajet vers Tórshavn, la capitale. Profitez des paysages déjà époustouflants qui défilent le long de la route.",
+        "<strong>🛏️</strong>: Installation à votre hébergement à Tórshavn. Prenez le temps de vous détendre après le voyage.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans le quartier historique de Tinganes à Tórshavn. Admirez les maisons aux toits d'herbe et le charmant port."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0097, "lng": -6.7725 }
+        }
+      ],
+      "illustration": "jour1_feroe.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conduite aux Féroé",
+          "texte": "La voiture est essentielle pour explorer les îles. Les routes sont bien entretenues, mais soyez attentif aux moutons qui peuvent traverser à tout moment."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Paysages Époustouflants et Villages Authentiques",
+      "legende": "Aujourd'hui, partez à la découverte de la beauté sauvage des îles du Nord. Des villages isolés aux panoramas grandioses, cette journée est dédiée à l'émerveillement et à la sérénité au cœur de la nature féroïenne.",
+      "lieu": "Streymoy & Eysturoy",
+      "activites": [
+        "<strong>🚗</strong>: Route panoramique vers Saksun. Ce village isolé, niché au fond d'un fjord, offre un cadre idyllique avec ses maisons aux toits d'herbe et sa lagune.",
+        "<strong>🚶‍♂️</strong>: Promenade douce autour de Saksun. Profitez du calme absolu et des vues imprenables sur les montagnes environnantes et l'océan.",
+        "<strong>☕</strong>: Pause détente à Tjørnuvík. Ce village pittoresque est célèbre pour sa plage de sable noir et ses vues sur les rochers 'Risin og Kellingin'."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Saksun, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2560, "lng": -7.1680 }
+        },
+        {
+          "nom_recherche": "Tjørnuvík, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2960, "lng": -7.1590 }
+        }
+      ],
+      "illustration": "jour2_feroe.jpg",
+      "encarts": [
+        {
+          "symbole": "🐑",
+          "titre": "Attention aux moutons",
+          "texte": "Les moutons sont omniprésents aux Féroé et ont la priorité sur les routes. Conduisez prudemment et soyez prêt à vous arrêter."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Histoire, Légendes et Départ",
+      "legende": "Avant de quitter ces îles magiques, plongez dans l'histoire millénaire de Kirkjubøur, le centre culturel et religieux médiéval. Une dernière immersion dans le passé féroïen avant de reprendre le chemin de l'aéroport.",
+      "lieu": "Streymoy & Vágar",
+      "activites": [
+        "<strong>⛪</strong>: Visite du site historique de Kirkjubøur. Découvrez la cathédrale de Magnus, l'église Saint-Olav et la plus ancienne ferme en bois habitée du monde, la Kirkjubøargarður.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs à Tórshavn. Profitez-en pour trouver des pulls en laine féroïenne ou des objets artisanaux uniques.",
+        "<strong>✈️</strong>: Retour à l'aéroport de Vágar (FAE) pour votre vol de départ. Gardez en mémoire les paysages grandioses et la sérénité des Féroé."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9930, "lng": -6.7930 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        }
+      ],
+      "illustration": "jour3_feroe.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Les conditions météorologiques peuvent changer rapidement. Prévoyez toujours des couches de vêtements et un imperméable, même en été."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 556 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Env. 100-150 €/pers (location voiture 3 jours, essence, tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Env. 150-200 €/pers (3 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Env. 150-250 €/pers (2 nuits, hôtel 3* ou guesthouse)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Env. 30-50 €/pers (musées, tunnels payants)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août (été)", "symbole": "☀️" },
+    { "titre": "Mai et Septembre (inter-saison)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures varient de 8 à 15°C en été. Prévoir des vêtements chauds, imperméables et coupe-vent, quelle que soit la saison.", "symbole": "🌧️" },
+    { "titre": "La monnaie est la Couronne Féroïenne (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Permis de conduire français suffisant. Conduite à droite. Les tunnels sous-marins sont payants (environ 100 DKK/trajet).", "symbole": "🚗" },
+    { "titre": "La couverture réseau est bonne dans la plupart des zones habitées. Le Wi-Fi est disponible dans les hébergements et cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Aux Îles Féroé, les moutons sont plus nombreux que les habitants ! On compte environ 80 000 moutons pour 54 000 Féroïens, ce qui explique leur omniprésence dans le paysage."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Jusqu'en 2017, Google Street View n'existait pas aux Féroé. Les habitants ont lancé le projet 'Sheep View 360', équipant des moutons de caméras pour cartographier leurs îles !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Ræst Kjøt",
+      "description": "Agneau fermenté, une spécialité traditionnelle féroïenne au goût unique et puissant, souvent servi avec des pommes de terre et des légumes racines."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Skerpikjøt",
+      "description": "Agneau séché à l'air libre, une autre méthode de conservation ancestrale qui donne une viande tendre et savoureuse, souvent dégustée en fines tranches."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Soupe de poisson (Fiskasúpan)",
+      "description": "Une soupe réconfortante et riche en saveurs, préparée avec du poisson frais local (cabillaud, haddock) et des légumes de saison."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-13/2026-05-16", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture aux Féroé", "url": "https://www.rentalcars.com/fr/country/fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo aux Féroé", "url": "https://www.yr.no/en/forecast/daily-table/2-261057/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
